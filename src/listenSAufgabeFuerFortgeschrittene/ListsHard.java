@@ -87,6 +87,10 @@ public class ListsHard {
         list.filterElements(21);
         System.out.println("list AFTER we filter looks like: (here we delete all values = 21");
         System.out.println(list.toString());
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
         System.out.println("---------- Anhaengen einer neuen Liste ----------");
         System.out.println(String.format("Die Liste hat nun %d Elemente:", list.getSize()));
